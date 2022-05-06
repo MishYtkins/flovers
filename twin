@@ -28,7 +28,7 @@
 	</table>
 	</header>
 	
-	<img width="10%" src="styles\images\Twin-Sunflower.jpg" id="photo">
+	<img width="10%" src="styles\images\Twin_Sunflower.jpg" id="photo">
 	<table id="description">
 	
 	<tr id="headertr"><td>Название</td><td id="righttd">Подсолнушек</td></tr>
